@@ -28,7 +28,7 @@ from config import Config
 REPLY_MESSAGE=Config.REPLY_MESSAGE
 buttons = [
     [
-        InlineKeyboardButton('⚡️Make Own Bot', url='https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer'),
+        InlineKeyboardButton('⚡️Make Own Bot', url='https://t.me/osamu1123'),
         InlineKeyboardButton('🧩 Source Code', url='https://github.com/subinps/MusicPlayer'),
     ],
     [
